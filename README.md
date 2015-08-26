@@ -1,2 +1,2 @@
-# triggmine_js_sdk fore a test
+# triggmine_js_sdk for a test
 lorem ipsum.......... 
